@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnnemisDungeon\Scripts\AI Scripts\FreeAI.cs">
+    <Files>
+      <File FileName="Assets\QuestSystem\FenetreQuetes.cs" Line="319" Column="30" />
+      <File FileName="Assets\ItemsCreators\Potions\CreateQuestPotion.cs" Line="28" Column="2" />
+      <File FileName="Assets\ItemsCreators\Potions\CreateManaPotion.cs" Line="123" Column="5" />
+      <File FileName="Assets\EnnemisDungeon\Scripts\AI Scripts\FreeAI.cs" Line="209" Column="11" />
+      <File FileName="Assets\QuestSystem\Quetes_List.cs" Line="203" Column="29" />
+      <File FileName="Assets\QuestSystem\Quete.cs" Line="137" Column="6" />
+      <File FileName="Assets\Scenes\Town\Scripts\DonneurDeQuete.cs" Line="165" Column="17" />
+      <File FileName="Assets\Scenes\Town\Scripts\Chef.cs" Line="47" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
